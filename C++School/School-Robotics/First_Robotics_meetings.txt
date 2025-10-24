@@ -1,0 +1,8 @@
+    Amelia willas = main lady who talks
+    olivia = marketing person
+    shawn = engineering person
+
+    team = class 
+    outreach
+
+    lsmsa.robotics.club (instagram)

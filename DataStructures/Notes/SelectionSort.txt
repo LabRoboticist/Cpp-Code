@@ -1,0 +1,3 @@
+Literaly switches the index positions 
+ilist[0] = 
+only does on swap each interation

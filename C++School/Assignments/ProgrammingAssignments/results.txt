@@ -1,0 +1,22 @@
+
+
+               MEASURMENT
+Length                 5 feet
+Width                  5 feet
+Area                  25 square feet
+
+
+
+              CHARGES
+
+Description COST/SQ.FT. CHARGE/ROOM
+----------- ----------- -----------
+Carpet       3.00             75.00                         
+Labor        0.35             8.75      
+                        -----------
+INSTALLED PRICE              $108.75
+Discount       2%            106.58
+                        -----------
+SUBTOTAL                     $106.58
+Tax                            8.5%
+TOTAL                        $115.63
