@@ -23,7 +23,7 @@ class Fraction{
 
 //define all the member functions here
 
-int Fraction::gcf()
+int Fraction::gcf() // get common factorial
 {   
     int cf,smallest;
     if(nr==dr){
